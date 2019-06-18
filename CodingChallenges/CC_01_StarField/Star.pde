@@ -6,8 +6,8 @@
 // I create a "Star" Class.
 class Star {
   // I create variables to specify the x and y of each star.
-  float x;
   float y;
+  float x;
   // I create "z", a variable I'll use in a formula to modify the stars position.
   float z;
 
